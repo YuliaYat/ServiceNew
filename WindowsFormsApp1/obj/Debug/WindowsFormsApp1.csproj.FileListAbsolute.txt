@@ -1,0 +1,77 @@
+C:\Users\Валан\Desktop\Новая папка (2)\Юля\Service\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Валан\Desktop\Новая папка (2)\Юля\Service\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Валан\Desktop\Новая папка (2)\Юля\Service\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Валан\Desktop\Новая папка (2)\Юля\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Валан\Desktop\Новая папка (2)\Юля\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Валан\Desktop\Новая папка (2)\Юля\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Валан\Desktop\Новая папка (2)\Юля\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Валан\Desktop\Новая папка (2)\Юля\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Валан\Desktop\Новая папка (2)\Юля\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Валан\Desktop\Новая папка (2)\Юля\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Валан\Desktop\Новая папка (2)\Юля\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Service.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Npgsql.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Service.pdb
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Service.dll.config
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Npgsql.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Юля\Desktop\Service\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml

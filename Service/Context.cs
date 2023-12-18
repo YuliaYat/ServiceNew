@@ -1,0 +1,36 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Service.Entity;
+
+namespace Service
+{
+    public class Context: DbContext
+    {
+        public Context()
+        {
+            Database.EnsureDeleted();
+            Database.EnsureCreated();
+
+        }
+
+        public DbSet<User> users { get; set; }
+        public DbSet<Product> products { get; set; }
+        //public DbSet<Manufacturer> manufacturers { get; set; }
+        public DbSet<Order> orders { get; set; }
+
+        //kusya115murik
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+
+            optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=UserDb;Username=postgres;Password=kusya115murik;");
+
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<User>().HasKey(u => u.id);
+            modelBuilder.Entity<Order>().HasKey(u => u.id);
+            //modelBuilder.Entity<Manufacturer>().HasKey(u => u.id);
+            modelBuilder.Entity<Product>().HasKey(u => u.id);
+        }
+    }
+}
