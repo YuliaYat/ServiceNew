@@ -19,6 +19,12 @@ namespace Service
                 {
                     return new BaseResponse() { message = "Password or login not founded" };
                 }
+                //us = db.users.Where(p => p.password == request.password).FirstOrDefault();
+                //if (us == null)
+                //{
+                //    return new BaseResponse { message = "Введен неверный пароль!"};
+                //}
+                
                 return new BaseResponse() { message = "Sucessful" };
             }
         }

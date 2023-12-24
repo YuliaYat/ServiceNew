@@ -41,12 +41,14 @@ namespace ClientView
             Service.Entity.Product product = new Service.Entity.Product() { name = vs[0], price = int.Parse(vs[1]) };
             products.Add(product);
             listBox1.Items.Clear();
-
+            sum = 0;
             foreach (var pr in products)
             {
                 listBox1.Items.Add($"{pr.name} {pr.price} {pr.manufacturer}");
                 sum += pr.price;
             }
+                   
+
             label1.Text = sum.ToString();
 
         }
@@ -56,13 +58,20 @@ namespace ClientView
             int i = listBox1.SelectedIndex;
             products.RemoveAt(i);
             listBox1.Items.Clear();
+            sum = 0;
             foreach (var pr in products)
             {
                 listBox1.Items.Add($"{pr.name} {pr.price} {pr.manufacturer}");
-                sum += pr.price;
+                sum -= pr.price;
             }
+            sum *= -1;
             label1.Text = sum.ToString();
-
         }
+
+
+        //private void label1_Click(object sender, EventArgs e)
+        //{
+        //    label1.Text = sum.ToString();
+        //}
     }
 }
